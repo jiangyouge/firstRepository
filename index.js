@@ -18,4 +18,5 @@
 
 		$scope.isLoading=true;
 	}]);
+	//这是手动在github上添加的一句话
 })(angular)
